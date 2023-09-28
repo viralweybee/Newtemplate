@@ -9850,3 +9850,10 @@ svg{
 .google-loaction{
  margin-top: 50px;
 }
+.navbar-brand img{
+  width: 100px;
+  height: 73px
+}
+.footer-logo{
+  text-align: center;
+}
