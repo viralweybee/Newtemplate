@@ -9851,9 +9851,11 @@ svg{
  margin-top: 50px;
 }
 .navbar-brand img{
-  width: 100px;
+  /* width: 100px; */
+  object-fit: cover;
   height: 73px
 }
 .footer-logo{
   text-align: center;
 }
+
