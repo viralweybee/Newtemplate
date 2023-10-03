@@ -9712,8 +9712,8 @@ svg{
 .counter-inside {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
-  gap: 80px;
+  justify-content: space-around;
+  gap: 70px;
   font-size: 22px;
   margin-top: 40px;
 }
